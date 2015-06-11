@@ -1,0 +1,19 @@
+{
+  "name": "project_storm",
+  "version": "1.0.0",
+  "description": "node.js app using storm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin R Snow",
+  "license": "ISC",
+  "dependencies": {
+    "csurf": "^1.8.3",
+    "express": "^4.12.4",
+    "express-stormpath": "^1.0.5",
+    "forms": "^1.1.1",
+    "jade": "^1.10.0",
+    "xtend": "^4.0.0"
+  }
+}
